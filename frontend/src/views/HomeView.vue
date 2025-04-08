@@ -1,9 +1,11 @@
+<template>
+  <div>
+    <h1 class="text-3xl font-bold">Home</h1>
+  </div>
+</template>
+
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+
 </script>
 
-<template>
-  <main>
-    <TheWelcome />
-  </main>
-</template>
+<style scoped></style>
